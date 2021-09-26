@@ -104,3 +104,7 @@ An SDK's ease of use is equally as important as the tools it contains. The follo
 - Faster and smoother integrations
 - Built-in support and expertise
 - Software development requires access to component components and instructions
+
+[Type of APIs](https://rapidapi.com/blog/types-of-apis/)
+[API benefits](https://blog.api.rakuten.net/api-benefits/)
+[API vs SDK](https://www.ibm.com/cloud/blog/sdk-vs-api)
